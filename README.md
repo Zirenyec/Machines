@@ -16,7 +16,7 @@ Cada informe incluye:
 Machines/
 └── Platform/
     └── NameMachine/
-        └── Report/
+        └── Report.pdf/
 ```        
 ---     
 
