@@ -12,11 +12,12 @@ Cada informe incluye:
 
 ## 📂 Estructura del repositorio
 
+```
 Machines/
 └── Platform/
 └── NameMachine/
 └── Report/
-        
+```        
 ---     
 
 ## 🧪 Contenido
