@@ -26,6 +26,7 @@ El repositorio se actualiza progresivamente con nuevas máquinas, abarcando dist
 
 Máquina documentada:
 - **Cap** (Linux – Easy): IDOR, exposición de credenciales FTP y escalada de privilegios mediante Linux capabilities.
+- **Conversor** (Linux – Easy): XSLT INJECTION, exposición código fuente y escalada de privilegios mediante sudo.
 
 ---
 
